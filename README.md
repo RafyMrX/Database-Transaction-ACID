@@ -1,1 +1,1 @@
-# database-ACID
+# BELAJAR DATABASE ACID (Atomicity, Consistency, Isolation, Durability)
